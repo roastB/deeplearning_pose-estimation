@@ -62,11 +62,16 @@ Mediapipe를 이용해 사람의 pose point (x, y) 데이터를 JSON 파일로 �
      - `event_log`: 낙상 감지 여부  
 
 ---
+## 🌟 시연 영상
+![NahonLab_DLproject-VEED](https://github.com/roastB/deeplearning_pose-estimation/raw/main/NahonLab_DLproject-VEED.gif)
 
+
+---
 ## 🛠 사용 기술  
 
 - **프레임워크:** TensorFlow / Keras
 - **Pose Estimation:** Mediapipe  
 - **데이터 처리:** NumPy, Pandas  
 - **DB 저장:** MySQL 
+
 
